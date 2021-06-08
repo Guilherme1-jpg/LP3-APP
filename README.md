@@ -25,7 +25,7 @@ Ambiente React Native (Android/iOS)
 - Para para melhor visualizacao beixe o aplicativo Snack Go e utilize do Qrcode Disponibilizado no link a seguir https://ibb.co/ThFdn4k
 
 ## Links
-[GitHub](https://github.com/Orbeli/P1-LP3) - GitHub do projeto  
+[GitHub](https://github.com/Guilherme1-jpg/LP3-APP) - GitHub do projeto  
 
 ---
 ## Author
